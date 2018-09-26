@@ -109,6 +109,9 @@ instructors[0]
 #  => "Avi"
 ```
 
-Nested hashes can get pretty complicated. Read through the example in this lesson again before moving on. It's okay if you don't understand everything; just try to get comfortable reading through the above nested hash. 
+Nested hashes can get pretty complicated. Read through the example in this lesson again before moving on. It's okay if you don't understand everything; just try to get comfortable reading through the above nested hash.
+
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-nested-hashes-intro/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-nested-hashes-intro/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Introduction to Nested Hashes</p>
